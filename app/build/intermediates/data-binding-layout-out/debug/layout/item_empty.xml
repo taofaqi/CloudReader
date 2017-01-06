@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+
+    
+
+                 
+                         
+                                      
+
+           
+
+
+    <LinearLayout
+        android:id="@+id/ll_empty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" android:tag="layout/item_empty_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/tv_empty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:lineSpacingExtra="4dp"
+            android:padding="18dp"
+            android:tag="binding_1" 
+            android:textSize="15sp"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+         

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\user_2\Desktop\CloudReader-master\zoomlibrary\src\main\assets"/><source path="C:\Users\user_2\Desktop\CloudReader-master\zoomlibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\user_2\Desktop\CloudReader-master\zoomlibrary\src\release\assets"/></dataSet></merger>

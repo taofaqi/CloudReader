@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_more.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\actionbar_more.png"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_share.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\actionbar_share.png"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_everyday.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\loading_everyday.png"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_search.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\actionbar_search.png"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cloudreader.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-hdpi\\ic_cloudreader.png"
+    }
+]

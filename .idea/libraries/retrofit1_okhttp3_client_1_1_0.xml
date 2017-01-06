@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="retrofit1-okhttp3-client-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit1-okhttp3-client/1.1.0/ef9dee021f4fe8ce4c05da164d3796e793d24a8a/retrofit1-okhttp3-client-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit1-okhttp3-client/1.1.0/4cbcbf6198ec26a99874c76aeaddc0ae12f0b72/retrofit1-okhttp3-client-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

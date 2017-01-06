@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\banner_grey.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-mdpi\\banner_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\banner_red.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-mdpi\\banner_red.png"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cloudreader.png",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-mdpi\\ic_cloudreader.png"
+    }
+]

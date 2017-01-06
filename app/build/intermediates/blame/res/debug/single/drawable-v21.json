@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bs_list_dark_selector.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\drawable-v21\\bs_list_dark_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_item_white_bg.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ripple_item_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bs_list_selector.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\drawable-v21\\bs_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_one_item_bg.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ripple_one_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_tab_bg.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ripple_tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\user_2\\Desktop\\CloudReader-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    }
+]
